@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
     int N, A;
     scanf("%d", &N);
     A = N;
